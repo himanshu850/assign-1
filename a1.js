@@ -40,7 +40,7 @@ function getRandomInt(max) {
             setInterval(1000);
             var randVerb = testVerbs[0];
             var randPath = testPaths[7];
-        
-    }
+
+    } 
 }    
 console.log(automateTests())
